@@ -1,0 +1,35 @@
+# Install Python and pip 
+sudo apt-get install update
+
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+sudo apt-get install wget
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python3 get-pip.py
+
+
+# Install Mage
+sudo pip3 install mage-ai
+
+# Install Pandas
+sudo pip3 install pandas
+
+# Install Google Cloud Library
+sudo pip3 install google-cloud
+
+sudo pip3 install google-cloud-bigquery
+
+
+
+
+
+
+
+Proficient in utilizing Looker, a powerful business intelligence and data visualization platform, to create interactive and intuitive reports and dashboards.
+Conducted performance tuning and optimization of Looker queries and dashboards, improving query response times and user experience.
+Provided training and support to end-users, enabling them to effectively leverage Looker's features and functionalities for data analysis and self-service reporting.
+Stayed updated with the latest features and enhancements in Looker, Informatica, and Teradata, exploring opportunities to leverage new functionalities and improve data analytics processes
